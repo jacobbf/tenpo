@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="dieresis" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresis" format="2">
   <advance width="608"/>
   <unicode hex="00A8"/>
   <outline>
@@ -32,11 +32,4 @@
       <point x="452" y="704"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

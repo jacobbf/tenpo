@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="degree" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="degree" format="2">
   <advance width="602"/>
   <unicode hex="00B0"/>
   <outline>
@@ -32,11 +32,4 @@
       <point x="224" y="532"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>

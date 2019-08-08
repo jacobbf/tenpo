@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<glyph name="clocktower011" format="1">
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="clocktower011" format="2">
   <advance width="1024"/>
   <outline>
     <contour>
@@ -271,11 +271,4 @@
       <point x="754" y="61" type="curve"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict>
-      </dict>
-    </dict>
-  </lib>
 </glyph>
