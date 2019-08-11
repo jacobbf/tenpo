@@ -70,5 +70,6 @@
       <point x="312" y="-16"/>
       <point x="342" y="0"/>
     </contour>
+    <component base="a" xOffset="-389"/>
   </outline>
 </glyph>
