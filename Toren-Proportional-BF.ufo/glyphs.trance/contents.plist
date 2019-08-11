@@ -4,7 +4,11 @@
   <dict>
     <key>a</key>
     <string>a.glif</string>
+    <key>b</key>
+    <string>b.glif</string>
     <key>f</key>
     <string>f.glif</string>
+    <key>q</key>
+    <string>q.glif</string>
   </dict>
 </plist>
