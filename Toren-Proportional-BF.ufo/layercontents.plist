@@ -14,5 +14,9 @@
       <string>ref</string>
       <string>glyphs.ref</string>
     </array>
+    <array>
+      <string>2</string>
+      <string>glyphs.2</string>
+    </array>
   </array>
 </plist>
