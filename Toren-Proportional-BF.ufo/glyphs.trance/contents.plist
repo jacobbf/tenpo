@@ -4,6 +4,8 @@
   <dict>
     <key>U</key>
     <string>U_.glif</string>
+    <key>V</key>
+    <string>V_.glif</string>
     <key>a</key>
     <string>a.glif</string>
     <key>b</key>
@@ -16,5 +18,7 @@
     <string>p.glif</string>
     <key>q</key>
     <string>q.glif</string>
+    <key>s</key>
+    <string>s.glif</string>
   </dict>
 </plist>
