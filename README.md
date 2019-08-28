@@ -9,7 +9,7 @@ Licensed under SIL Open Font License (http://scripts.sil.org/cms/scripts/page.ph
 - [x] Identify issues
 - [ ] Even out the weight in upper and lower sets
 - [ ] Bracket ball terminals to reflect mono
-- [ ] Respace
+- [ ] Finish Respacing
 - [ ] Match punctuation
 - [ ] Match figures
 - [ ] Kern
